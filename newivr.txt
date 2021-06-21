@@ -1,0 +1,38 @@
+
+
+
+Profile picture of g_ivr_landlord.Push from Application Landing Page on Bro... by g_ivr_landlord
+g_ivr_landlord
+16:46
+Push from Application
+http://crm2uat.rblbank.com/sn/app/setup/ivr/ivrprocess.aspx?CRM=IVRENT&ETB=wNvQ52Arv7amajbE%2BrrXkA%3D%3D&authflag=wNvQ52Arv7amajbE%2BrrXkA%3D%3D&cif=tbpz2lOdq0IZjcELbBGBpg%3D%3D&Mobile=zpgxtJrwFONEPTQ2Hxh%2FHQ%3D%3D&LastNode=javo9QncEjp6IopgTB6aCJVpOl400rDCewwM86XdOWk%3D&SessionID=af5rWmS%2FUefdmE71fuuCHA%3D%3D
+
+
+
+
+Landing Page on Browser
+http://crm2uat.rblbank.com/sn/app/CRMNextObject/StartJourney?x=eylykhk9tvrtr3senqgm2bdz3wsrux4b5le7wjq&JourneyId=100037&Version=&strAgentID=&strAuthFlag=nuQ3eR0zqZcC0a3hdTgK5pgsJ9mCYx9EBN6A56EQLFY%3d&strCif=N1NGRirDD%2b8UbdC8GAlvzg%3d%3d&strETB=nuQ3eR0zqZcC0a3hdTgK5pgsJ9mCYx9EBN6A56EQLFY%3d&strLastNode=CF%2fVyOeTjbwOfzplQjFamHTUJTiXZ7TADzJI7ReQy7Q%3d&strMobile=THZU3n56YlEST1L%2fqOYVLw%3d%3d&strSessionID=AqTyHFZVJlU3dp6lA9BMXQ%3d%3d
+
+
+
+nuQ3eR0zqZcC0a3hdTgK5pgsJ9mCYx9EBN6A56EQLFY%3d
+
+k0wv%2by30XZ7gqC5r0g8%2b8A%3d%3d
+
+N1NGRirDD%2b8UbdC8GAlvzg%3d%3d
+
+N1NGRirDD%2b8UbdC8GAlvzg%3d%3d
+
+
+http://crm2uat.rblbank.com/sn/app/CRMNextObject/StartJourney?x=eylykhk9tvrtr3senqgm2bdz3wsrux4b5le7wjq&JourneyId=100037&Version=&strAgentID=&strAuthFlag=k0wv%2by30XZ7gqC5r0g8%2b8A%3d%3d&strCif=N1NGRirDD%2b8UbdC8GAlvzg%3d%3d&strETB=k0wv%2by30XZ7gqC5r0g8%2b8A%3d%3d&strLastNode=CF%2fVyOeTjbwOfzplQjFamHTUJTiXZ7TADzJI7ReQy7Q%3d&strMobile=THZU3n56YlEST1L%2fqOYVLw%3d%3d&strSessionID=AqTyHFZVJlU3dp6lA9BMXQ%3d%3d
+
+
+
+
+http://crm2uat.rblbank.com/sn/app/CRMNextObject/StartJourney?x=eylykhk9tvrtr3senqgm2bdz3wsrux4b5le7wjq&JourneyId=100037&Version=&strAgentID=&strAuthFlag=1&strCif=101000449&strETB=1&strLastNode=BankingMenu_Success&strMobile=8652865234&strSessionID=178305
+
+
+tbpz2lOdq0IZjcELbBGBpg%3D%3D
+
+
+http://crm2uat.rblbank.com/sn/app/CRMNextObject/StartJourney?x=eylykhk9tvrtr3senqgm2bdz3wsrux4b5le7wjq&JourneyId=100037&Version=&strAgentID=&strAuthFlag=1&strCif=101000449&strETB=1&strLastNode=BankingMenu_Success&strMobile=8652865234&strSessionID=178305
